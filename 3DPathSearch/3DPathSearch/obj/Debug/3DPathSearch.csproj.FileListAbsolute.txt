@@ -1,0 +1,5 @@
+c:\users\siphesihle\documents\visual studio 2015\Projects\3DPathSearch\3DPathSearch\obj\Debug\3DPathSearch.csprojResolveAssemblyReference.cache
+c:\users\siphesihle\documents\visual studio 2015\Projects\3DPathSearch\3DPathSearch\bin\Debug\3DPathSearch.dll
+c:\users\siphesihle\documents\visual studio 2015\Projects\3DPathSearch\3DPathSearch\bin\Debug\3DPathSearch.pdb
+c:\users\siphesihle\documents\visual studio 2015\Projects\3DPathSearch\3DPathSearch\obj\Debug\3DPathSearch.dll
+c:\users\siphesihle\documents\visual studio 2015\Projects\3DPathSearch\3DPathSearch\obj\Debug\3DPathSearch.pdb
